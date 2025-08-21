@@ -45,17 +45,9 @@ Architecture
 Getting Started
 
     Read local laws and project warnings. Operating or connecting to darknets may be restricted in some jurisdictions.
-    Clone this repository: git clone https://github.com//retromesh
+    Clone this repository: git clone https://github.com/retromesh/retromesh.git 
     Review the code and build instructions for the Tor Browser fork and node software.
     Build and run in a sandboxed environment or VM when testing.
-
-Running a Node
-
-    Minimum requirements: modest CPU, 1–4 GB RAM, and stable network connectivity.
-    Install dependencies (see /docs/INSTALL.md).
-    Configure node settings in config.yml (peer lists, directories you wish to host, optional moderation policies).
-    Start the node daemon: ./retromesh-node --config config.yml
-    Register your node in community-curated directories to participate in discovery (optional).
 
 Using the Network (Client)
 
@@ -85,7 +77,7 @@ Contributing
 
 License
 
-RetroMesh is released under the MIT License. See LICENSE for details.
+RetroMesh is released under the GPLv3 License. See LICENSE for details.
 Disclaimer & Legal
 
 RetroMesh is provided as-is. The maintainers are not responsible for how the software is used. Connecting to or operating parts of the darknet can have legal consequences. Understand and comply with local law.
