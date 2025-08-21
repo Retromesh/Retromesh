@@ -23,6 +23,9 @@ RetroMesh recreates the feel of the old web: small communities, curated link dir
 Status
 
 This project is in early development. Many core components (including the first public build of the RetroMesh Tor Browser fork and production-ready node software) are still under development. Use the codebase for review, testing in sandboxes/VMs, and development contributions.
+
+See the source code for Retromesh browser <a href="https://github.com/retromesh/client">here</a>
+
 Features
 
     Darknet overlay accessed through a RetroMesh fork of Tor Browser.
